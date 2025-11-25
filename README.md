@@ -7,9 +7,6 @@ A simple implementation of the Go-Moku (Gomoku) game in Java, featuring a comman
 - First to get 5 in a row (horizontally, vertically, or diagonally) wins
 - You play as 'X' and the AI plays as 'O'
 
-## Prerequisites
-- Java 11 or higher
-- Maven 3.6.0 or higher
 
 ## How to Run
 
